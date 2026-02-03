@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "e675c5eb9f750572",
+    "type": "split",
+    "children": [
+      {
+        "id": "310c43b844ed6a23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94929f7e1852412a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сценарії/Про Мишей та Різдво/Квести/Велике зло не спить.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Велике зло не спить"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "328cf35cb67d7ddb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6286fe6c630c642c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a255f2bef1b45f46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fa2a2a0838db94b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1b05e2f7513c37bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f3e71a4b5f3d6a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7200c65d5b865746",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b41ed4ada9c768d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Сценарії/Про Мишей та Різдво/Картинки/Pasted image 20260203145248.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pasted image 20260203145248"
+            }
+          },
+          {
+            "id": "0dab7deaadbb08fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Сценарії/Про Мишей та Різдво/Картинки/Pasted image 20260203145248.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted image 20260203145248"
+            }
+          },
+          {
+            "id": "c3372a93434ee6d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "67c59eb92d82ed0d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "01d5a77ebbfdbf09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Сценарії/Про Мишей та Різдво/Картинки/Pasted image 20260203145248.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasted image 20260203145248"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "94929f7e1852412a",
+  "lastOpenFiles": [
+    "Сценарії/Про Мишей та Різдво/Локації/8. Місто Іржі (Старий Запорожець).md",
+    "Сценарії/Про Мишей та Різдво/Квести/Велике зло не спить.md",
+    "Сценарії/Про Мишей та Різдво/Почни тут.md",
+    "Сценарії/Про Мишей та Різдво/Квести/Порятунок різдва.md",
+    "Сценарії/Про Мишей та Різдво/Вороги/Старий Кордицепс.md",
+    "Сценарії/Про Мишей та Різдво/Стани/Дух Різдва.md",
+    "Сценарії/Про Мишей та Різдво/Перевірки/Різдвяні страви (к20).md",
+    "Сценарії/Про Мишей та Різдво/Стани",
+    "Сценарії/Про Мишей та Різдво/Вороги/Зомбі Миша.md",
+    "Сценарії/Про Мишей та Різдво/Квести",
+    "Сценарії/Про Мишей та Різдво/Локації/13. Велике Зло (Горище).md",
+    "Сценарії/Про Мишей та Різдво/Локації/12. Небезпечний рай (Кухня).md",
+    "Сценарії/Про Мишей та Різдво/Локації/11. Водяний Портал (Туалет).md",
+    "Сценарії/Про Мишей та Різдво/Локації/10. Гора Лабіринт (Стелаж).md",
+    "Сценарії/Про Мишей та Різдво/Локації/9. Феод Князя (Вітальня).md",
+    "Сценарії/Про Мишей та Різдво/Локації/7. Табір Отамана (Курник).md",
+    "Сценарії/Про Мишей та Різдво/Локації/5. Тартар (Підвал).md",
+    "Сценарії/Про Мишей та Різдво/Локації/2. Оселя Тепла (Хлів).md",
+    "Сценарії/Про Мишей та Різдво/Локації/1. Пенькомишль.md",
+    "Untitled.canvas",
+    "2026-02-03.md",
+    "Сценарії/Про Мишей та Різдво/Вороги/Зомбі Пацюк.md",
+    "Стани/Травмований.md",
+    "Стани/Недієздатний.md",
+    "Сценарії/Про Мишей та Різдво/Стани/Заражений.md",
+    "Стани/Голодний.md",
+    "Стани/Виснажений.md",
+    "Корисні терміни/Хід.md",
+    "Корисні терміни/Раунд.md",
+    "Сценарії/Про Мишей та Різдво/Картинки/Pasted image 20260203145248.png",
+    "Сценарії",
+    "Сценарії/Про Мишей та Різдво",
+    "Сценарії/Про Мишей та Різдво/Картинки/Pasted image 20260203145142.png",
+    "Сценарії/Про Мишей та Різдво/Картинки",
+    "Почни тут.base",
+    "Корисні терміни",
+    "Відпочинки",
+    "Сценарії/Про Мишей та Різдво/Предмети",
+    "Стани",
+    "2. Оселя Тепла (Хлів)/Untitled.canvas"
+  ]
+}
